@@ -10,31 +10,18 @@
 - [5. 25.10.2021](#5-25102021)
 - [6. Quellen](#6-quellen)
 
-# 1. Bis 19.09.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+# 23.11.2021
 
+##Was habre ich gemacht
 
-# 2. 20.09.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
+Als erstes habe ich das Gitrepository geklont. 
+Fehlende Dateien hinzugefügt.
+Angefangen mit Markdown.
 
+##Was habe ich gelernt
 
-## 2.2. Auswertung
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+Viel gelernt übre Github, weil ich alles vergessen habe. Ich wusste nicht mehr einmal wie man ein Commit durchgeführt.
 
-# 3. 27.09.2021
-| Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
+##Was nehmen ich für das nächste Mal mit
 
-
-# 4. 04.10.2021
-
-# 5. 25.10.2021
-
-
-
-# 6. Quellen
+Ich werde aktiver arbeiten
