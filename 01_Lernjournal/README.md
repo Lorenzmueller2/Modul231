@@ -12,16 +12,16 @@
 
 # 23.11.2021
 
-##Was habre ich gemacht
+## Was habre ich gemacht
 
 Als erstes habe ich das Gitrepository geklont. 
 Fehlende Dateien hinzugefügt.
 Angefangen mit Markdown.
 
-##Was habe ich gelernt
+## Was habe ich gelernt 
 
 Viel gelernt übre Github, weil ich alles vergessen habe. Ich wusste nicht mehr einmal wie man ein Commit durchgeführt.
 
-##Was nehmen ich für das nächste Mal mit
+## Was nehmen ich für das nächste Mal mit
 
-Ich werde aktiver arbeiten
+Ich werde aktiver arbeiten 
