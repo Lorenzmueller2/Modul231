@@ -13,5 +13,19 @@
 *Führen Sie hier alle Quellen auf.*
 
 
-## Notwensigkeit von Passwörtern
+
+### Notwensigkeit von Passwörtern
 https://miro.com/app/board/uXjVOe_uDB0=/
+
+
+### Important Password Rules
+
+- Niemals den Nutzernamen, den tatsächlichen Namen, das Geburtsdatum oder andere Informationen, die mit der eigenen Person oder dem genutzten Konto         zusammenhängen, als Passwort verwenden
+
+- Begriffe vermeiden, die aus einem Wörterbuch stammen (könnten)
+
+- Mindestens vier Arten von Schreibweisen verwenden, also groß/klein, Buchstaben, Nummern und Sonderzeichen wie !@#%$*~;.
+
+- Dem Passwort eine Länge von mindestens acht Zeichen geben
+
+- Niemals dasselbe Passwort für alle Konten verwenden.
