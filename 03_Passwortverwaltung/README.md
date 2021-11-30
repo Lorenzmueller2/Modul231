@@ -11,3 +11,7 @@
 
 # Quellen
 *Führen Sie hier alle Quellen auf.*
+
+
+## Notwensigkeit von Passwörtern
+https://miro.com/app/board/uXjVOe_uDB0=/
