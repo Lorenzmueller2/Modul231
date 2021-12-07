@@ -12,7 +12,7 @@
 
 # 23.11.2021
 
-## Was habre ich gemacht
+## Was habe ich gemacht
 
 Als erstes habe ich das Gitrepository geklont. 
 Fehlende Dateien hinzugefügt.
@@ -29,13 +29,33 @@ Ich werde aktiver arbeiten
 
 
 
-#07.12.2021
+# 07.12.2021
 
-##Privacy Policies
+    
+## Was habe ich gemacht
+Reddit Nutzungsbedingungen angeschaut
+Film über content moderatoren gesehen
+Ich fand es sehr spannend.
 
-  ###Wo finde ich die Datenschutz-/Nutzungsbestimmungen?
+
+## Was habe ich gelernt 
+
+Wie die Social-media Platformen mit ihren Daten umgehen.
+Ich habe viel gelernt beim Film, da ich zum Beispiel nicht wirklich wusste wie den Social-media content filtern. 
+
+## Was nehmen ich für das nächste Mal mit
+
+Ich werde aktiver arbeiten 
+
+
+
+## Privacy Policies
+
+Link zum Film: https://de.wikipedia.org/wiki/Im_Schatten_der_Netzwelt 
+
+  ### Wo finde ich die Datenschutz-/Nutzungsbestimmungen?
   (https://www.redditinc.com/policies/privacy-policy-de )
-  ###Welche Daten werden gespeichert? (Liste mit allen erfassten Personendaten)
+  ### Welche Daten werden gespeichert? (Liste mit allen erfassten Personendaten)
     Account information
     Content you s
     ubmit
@@ -44,11 +64,13 @@ Ich werde aktiver arbeiten
     Other information
     Location information
     Information collected from cookies and similar technologies
-  ###Für was werden die Daten verwendet?
+  ### Für was werden die Daten verwendet?
     Verbesserung von Reddit, angepasster Inhalt
     Werden die Daten weitergegeben? Wenn ja, an wen?
-  ###Ja, wenn Nutzer zustimmen, können Daten weitergegeben werden.
+  ### Ja, wenn Nutzer zustimmen, können Daten weitergegeben werden.
     Sie geben Daten an drittanbieter, die mit deinem Konto verknüpft sind.
-  ###Darf der Dienst/Service/Plattform meine Bilder/Videos weiterverkaufen?
+  ### Darf der Dienst/Service/Plattform meine Bilder/Videos weiterverkaufen?
     Nein, personenbezogene Daten werden nicht verkauft
+
+
 
