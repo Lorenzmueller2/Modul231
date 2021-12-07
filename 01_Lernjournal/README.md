@@ -33,10 +33,12 @@ Ich werde aktiver arbeiten
 
     
 ## Was habe ich gemacht
+
 Reddit Nutzungsbedingungen angeschaut
 Film über content moderatoren gesehen
 Ich fand es sehr spannend.
 
+Link zum Film: https://de.wikipedia.org/wiki/Im_Schatten_der_Netzwelt 
 
 ## Was habe ich gelernt 
 
@@ -51,7 +53,6 @@ Ich werde aktiver arbeiten
 
 ## Privacy Policies
 
-Link zum Film: https://de.wikipedia.org/wiki/Im_Schatten_der_Netzwelt 
 
   ### Wo finde ich die Datenschutz-/Nutzungsbestimmungen?
   (https://www.redditinc.com/policies/privacy-policy-de )
