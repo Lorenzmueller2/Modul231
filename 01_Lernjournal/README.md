@@ -27,6 +27,26 @@ Viel gelernt übre Github, weil ich alles vergessen habe. Ich wusste nicht mehr 
 Ich werde aktiver arbeiten 
 
 
+# 30.11.2021
+
+## Was habe ich gemacht
+
+Ich habe mir einen Passwordmanager installiert und eingerichtet
+Ich habe die Aufträge gemacht.
+Autorisierung und Authentifiezierung angeschaut und bearbeitet
+Link zu meinem Passwordmanager: https://bitwarden.com/download/
+
+
+## Was habe ich gelernt 
+
+Ich habe gelernt, wiso es sinnvoll und sicher ist einen Passwortmanager zu benutzen.
+Ich weiss auch welche Kriterien einen Einfluss haben auf ein sicheres Passwort.
+
+## Was nehmen ich für das nächste Mal mit
+
+Ich mache alles so wie ich es heute gemacht habe. Ich konnte gut arbeiten und mich gut konzentrieren.
+
+
 
 
 # 07.12.2021
