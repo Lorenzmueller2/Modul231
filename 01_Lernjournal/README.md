@@ -1,14 +1,6 @@
 # Lernjournal  <!-- omit in toc -->
 
-# Inhaltsverzeichnis  <!-- omit in toc -->
-- [1. Bis 19.09.2021](#1-bis-19092021)
-- [2. 20.09.2021](#2-20092021)
-  - [2.1. Ziele](#21-ziele)
-  - [2.2. Auswertung](#22-auswertung)
-- [3. 27.09.2021](#3-27092021)
-- [4. 04.10.2021](#4-04102021)
-- [5. 25.10.2021](#5-25102021)
-- [6. Quellen](#6-quellen)
+# Inhaltsverzeichnis
 
 # 23.11.2021
 
@@ -92,6 +84,26 @@ Ich werde aktiver arbeiten
     Sie geben Daten an drittanbieter, die mit deinem Konto verknüpft sind.
   ### Darf der Dienst/Service/Plattform meine Bilder/Videos weiterverkaufen?
     Nein, personenbezogene Daten werden nicht verkauft
+    
+    
+    
+  # 14.12.21
+  
+  
+   ## Was habe ich gemacht
 
+    Wir haben den Test gemacht. Ich denke der Test ging Gut. Wir konnten noch unsere eingene Zusammenfassung benutzen.
+    Pantomime gespielt mit den Begriffen die am Test dran kamen.
+    Ich fand es noch eine gute Abwechslung, dass wir mall alle zusammen ein Spiel gespielt haben.
+    Wir haben ja schliesslich etwas dabei gelernt.
+    WIr hatten noch Zeit unsere Lernjournale überarbeiten
 
+   ## Was habe ich gelernt 
 
+    Da wir ja den Test gehabt haben, habe ich vor allem auf den Test gelernt. Wir haben heute ja nicht wirklich etwas neues kennengelernt. 
+
+   ## Was nehmen ich für das nächste Mal mit
+
+    SO arbeiten wie heute. Ich finde ich war heute ziemlich produktiv und habe mich gut konzentrieren. 
+  
+  
