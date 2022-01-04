@@ -1,16 +1,26 @@
 # Passwortverwaltung
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
+
+|Name     |Kompatibel mit                 |Opensource |Verifikation          |Kryptografie    |Preis |Benutzerfreundlichkeit                       |
+|---------|-------------------------------|-----------|----------------------|----------------|------|---------------------------------------------|
+|KeePass  |Windows, Linux, macOS, Qt      |Yes        |OTP-Codes und Passwort|AES-Algorithmus |0 CHF |benutzerfreundlich aber auch sehr erweiterbar|
+|Dashlane |Windows, macOS, Android 	      |Yes        |Passwort oder Pin     |AES 256-bit     |0 CHF |gut bedienbar                              	 |
+|Bitwarden|Android, Windows, MacOS, Linux |Yes        |Passwort              |AES-CBC 256-bit |0 CHF |Sehr gut bedienbar, sehr selbsterklärend     |
+
+
+Ich habe Bitwarden genommen, weil mir dieser mir sehr oft empfohlen wurde.
+
+
 
 # Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+Die Installation war sehr einfach. Ich habe einfach die Bitwarden Seite aufgerufen und den Manager heruntergeladen. Ich habe mir nicht den Premiumaccount geholt, weil ich das nicht für nötig halte.
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Ich habe mir zuerst ien Passwort überlegen müssen. Ich habe ein sehr kompliziertes Passwort ausgedacht, was aber einfach zu merken ist. Danach habe ich die Passwörter meiner anderen Konten übertragen und manchmal auch geändert, weil es zum Teil keine guten Passwörter waren. Ich hatte keine grossen Mühen mich zurecht zu finden. Es erklärte sich von selbst.
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+https://bitwarden.com/
 
 
 
