@@ -104,6 +104,38 @@ Ich werde aktiver arbeiten
 
    ## Was nehmen ich für das nächste Mal mit
 
+    So arbeiten wie heute. Ich finde ich war heute ziemlich produktiv und habe mich gut konzentrieren. 
+  
+  
+  
+   # 04.01.22
+  
+  
+   ## Was habe ich gemacht
+
+    Schlüssel gemacht mit Kleopatra gemacht um Daten zu schützen.
+
+   ## Was habe ich gelernt 
+
+    Ich habe gelernt wie man so einen Schlüssel macht.
+
+   ## Was nehmen ich für das nächste Mal mit
+
     SO arbeiten wie heute. Ich finde ich war heute ziemlich produktiv und habe mich gut konzentrieren. 
+    
+    
+   # 11.01.22
   
   
+   ## Was habe ich gemacht
+
+    Ich habe heute mein Lernjournal nachgetragen. Letztes Mal habe ich vergessen das Lernjournal zu schreiben, also habe ich das auch noch gemacht.
+    Ich habe auch Herr Albrechts Feedback umgesetzt und mein Passwortmanagerfile verbessert. Den Entscheid und allgemein verbessert
+
+   ## Was habe ich gelernt 
+
+    Das man seine eigene Meinung nicht als Entscheidungskriterium gilt. Man mus andere Meinungen auch hinein beziehen.
+
+   ## Was nehmen ich für das nächste Mal mit
+
+    Wieder so machen. Produktiver sein. 
