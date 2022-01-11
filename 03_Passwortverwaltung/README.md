@@ -9,7 +9,9 @@
 |Bitwarden|Android, Windows, MacOS, Linux |Yes        |Passwort              |AES-CBC 256-bit |0 CHF |Sehr gut bedienbar, sehr selbsterklärend     |
 
 
-Ich habe Bitwarden genommen, weil mir dieser mir sehr oft empfohlen wurde.
+Ich habe Bitwarden genommen, weil mir dieser mir sehr oft empfohlen wurde. Für mich ist es sehr wichtig, dass der Passwort Manager Opensource ist. Ich wollte auch einen Kostenlosen und das es nicht schwierig ihn zu bedinen, weil wen ich dan ein Problem habe dann will ich dieses schnell beheben können. Er sollte auch bekannt und beliebt sein, weil das eine gute Leistung des Managers zeigt und das ist Bitwarden auf jeden Fall.
+
+https://www.experte.de/passwort-manager/bitwarden : Ich habe mich auch von dieser Website inspirieren lassen und mich so über Bitwarden informiert.
 
 
 
@@ -17,14 +19,14 @@ Ich habe Bitwarden genommen, weil mir dieser mir sehr oft empfohlen wurde.
 Die Installation war sehr einfach. Ich habe einfach die Bitwarden Seite aufgerufen und den Manager heruntergeladen. Ich habe mir nicht den Premiumaccount geholt, weil ich das nicht für nötig halte.
 
 # Einrichtung
-Ich habe mir zuerst ien Passwort überlegen müssen. Ich habe ein sehr kompliziertes Passwort ausgedacht, was aber einfach zu merken ist. Danach habe ich die Passwörter meiner anderen Konten übertragen und manchmal auch geändert, weil es zum Teil keine guten Passwörter waren. Ich hatte keine grossen Mühen mich zurecht zu finden. Es erklärte sich von selbst.
+Ich habe mir zuerst ien Passwort überlegen müssen. Ich habe ein sehr kompliziertes Passwort ausgedacht, was aber einfach zu merken ist. Danach habe ich die Passwörter meiner anderen Konten übertragen und manchmal auch geändert, weil es zum Teil keine guten Passwörter waren. Ich hatte keine grossen Mühen mich zurecht zu finden. Es erklärte sich von selbst. 
 
 # Quellen
 https://bitwarden.com/
 
 
 
-### Notwensigkeit von Passwörtern
+### Notwendigkeit von Passwörtern
 https://miro.com/app/board/uXjVOe_uDB0=/
 
 
