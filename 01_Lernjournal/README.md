@@ -113,11 +113,13 @@ Ich werde aktiver arbeiten
   
    ## Was habe ich gemacht
 
-    Schlüssel gemacht mit Kleopatra gemacht um Daten zu schützen.
+    Keypair mit Kleopatra gemacht um Daten zu schützen.
+    Haben danach Files mit Nachrichten von den anderen Schüler entschlüsselt und verschlüsselt.
+    
 
    ## Was habe ich gelernt 
 
-    Ich habe gelernt wie man so einen Schlüssel macht.
+    Ich habe gelernt wie man so einen Schlüssel macht und wie man ihn verwendet.
 
    ## Was nehmen ich für das nächste Mal mit
 
@@ -130,11 +132,29 @@ Ich werde aktiver arbeiten
    ## Was habe ich gemacht
 
     Ich habe heute mein Lernjournal nachgetragen. Letztes Mal habe ich vergessen das Lernjournal zu schreiben, also habe ich das auch noch gemacht.
-    Ich habe auch Herr Albrechts Feedback umgesetzt und mein Passwortmanagerfile verbessert. Den Entscheid und allgemein verbessert
+    Ich habe auch Herr Albrechts Feedback umgesetzt und mein Passwortmanagerfile verbessert. Den Entscheid und allgemein verbessert.
 
    ## Was habe ich gelernt 
 
     Das man seine eigene Meinung nicht als Entscheidungskriterium gilt. Man mus andere Meinungen auch hinein beziehen.
+
+   ## Was nehmen ich für das nächste Mal mit
+
+    Wieder so machen. Produktiver sein. 
+
+
+   # 18.01.22
+  
+  
+   ## Was habe ich gemacht
+
+    Input zu Backups zugehört. Test zu verschiedenen Backupvarinten gelesen und danach auch einen Vortrag gemacht.
+    Plakat erstellt. Wir haben danachh die Rollen aufgeteilt uns dann auch vorgetragen.
+    
+
+   ## Was habe ich gelernt 
+
+    Was mit Vollsicherung, Differenzielle und Inkrementelle Sicherung
 
    ## Was nehmen ich für das nächste Mal mit
 
