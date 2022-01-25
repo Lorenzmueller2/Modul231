@@ -28,8 +28,39 @@
 05 Sichern Sie Informationen und löschen Sie Daten vollständig
 
     Zum Teil. Ich lagere speichere meine Daten sicher im Nas, das ich Momentan als externe Festplatte nutze. Ich habe noch keine Erfahrungen gemacht mit dem Löschen von Wichtigen Daten.
+    
+    
+   
+# 2. Checkliste des Datenschutzbeauftragten
+    
+## Smartphone sicherheit erhöhen
+
+01 Gerätesperren aktivieren
+
+    Ich benutze Faceid um mein Handy zu entsperren. Mein Handy schaltet sich nach 2 Minuten aus
+    
+02 Gerät bei Verlust sofort sperren und löschen lassen.
+
+    Würde ich auch so machen im Notfall.
+    
+03 Apps aus vertrauenswürdigen Quellen installieren
+
+    Meine Apps lade ich vom App store herunter.
+    
+04 Öffentliche Funknetzwerke mit Vorsicht nutzen
+
+    Ich benutze keine öffentlichen Hotspots
+    
+05 Updates regelmässig durchführen
+
+    Neue Updates werden automatisch über Nacht gemacht.
+    
+06 Daten vor Verkauf oder Entsorgung komplett löschen
+
+    Ich habe noch nie mein Handy verkauft, da ich mein altes noch habe.
+    
+07 Drahtlose Schnittstellen deaktivieren
+
+    Wlan und Bluetooth sind bei mir eigentlich immer an. Das andere schalte ich sonst aus.
 
 
-
-# 2. Individuelle Quelle
-*Kriterium 12 der LB2*
